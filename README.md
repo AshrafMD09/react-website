@@ -1,2 +1,5 @@
-# react-website
-react-website project
+<<<<<<< HEAD
+(Your local changes)
+=======
+(Remote changes)
+>>>>>>> ac862a9...
